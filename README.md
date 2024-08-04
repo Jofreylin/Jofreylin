@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Jofreylin&color=brightgreen)
 
 ## 👋 About Me
-Hi! I'm Jofreylin, I am a software developer specialized in web development, but I like to explore beyond that. In my free time, I enjoy creating tools for the community and working on open-source projects.
+Hi! I'm Jofreylin, a software developer specialized in web development, but I like to explore beyond that. In my free time, I enjoy creating tools for the community and working on open-source projects.
 
 ## 🔧 Technologies and Tools
 
