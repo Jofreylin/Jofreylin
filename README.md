@@ -1,12 +1,11 @@
-# 👋 Hi! I'm Jofreylin
 
 [![GitHub followers](https://img.shields.io/github/followers/Jofreylin?style=social)](https://github.com/Jofreylin)
 [![Linkedin: Jofreylin](https://img.shields.io/badge/-jofreylinpv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jofreylinpv/)](https://www.linkedin.com/in/jofreylinpv/)
 [![Buy Me A Coffee](https://img.shields.io/badge/-%F0%9F%8D%BA%20Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&link=https://buymeacoffee.com/jofreylinpy)](https://buymeacoffee.com/jofreylinpy)
 ![Profile views](https://komarev.com/ghpvc/?username=Jofreylin&color=brightgreen)
 
-## 📚 About Me
-I am a software developer specialized in web development, but I like to explore beyond that. In my free time, I enjoy creating tools for the community and working on open-source projects.
+## 👋 About Me
+Hi! I'm Jofreylin, I am a software developer specialized in web development, but I like to explore beyond that. In my free time, I enjoy creating tools for the community and working on open-source projects.
 
 ## 🔧 Technologies and Tools
 
