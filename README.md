@@ -32,7 +32,7 @@ I am a software developer specialized in web development, but I like to explore 
 
 ## 📈 GitHub Stats
 
-![Jofreylin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jofreylin&show_icons=true&theme=radical)
+![Jofreylin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jofreylin&show_icons=true&theme=radical&hide=issues,contribs&hide_rank=true)
 
 ## ☕ Support Me
 If you like my work and want to support me, you can buy me a coffee!
