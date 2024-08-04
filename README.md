@@ -27,8 +27,6 @@ I am a software developer specialized in web development, but I like to explore 
 
 ## 🌐 Personal Links
 - [My Portfolio](https://byjofrey.com)
-- [LinkedIn](https://www.linkedin.com/in/jofreylinpv/)
-
 
 ## 📈 GitHub Stats
 
