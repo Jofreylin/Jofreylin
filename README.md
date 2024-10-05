@@ -32,9 +32,4 @@ Hi! I'm Jofreylin, a software developer specialized in web development, but in m
 
 ![Jofreylin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jofreylin&show_icons=true&theme=radical&hide=issues,contribs&hide_rank=true)
 
-## ☕ Support Me
-If you like my work and want to support me, you can buy me a coffee!
-[![Buy Me A Coffee](https://img.shields.io/badge/-%F0%9F%8D%BA%20Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&link=https://buymeacoffee.com/jofreylinpy)](https://buymeacoffee.com/jofreylinpy)
 
-Or you can buy me a tea!
-[![PayPal](https://img.shields.io/badge/-PayPal-blue?style=flat-square&logo=paypal&logoColor=white&link=https://www.paypal.com/paypalme/sponsorjofreylin)](https://www.paypal.com/paypalme/sponsorjofreylin)
