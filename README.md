@@ -26,7 +26,7 @@ Hi! I'm Jofreylin, a software developer specialized in web development, but in m
 
 
 ## 🌐 Personal Links
-- [My Portfolio](https://byjofrey.com)
+
 - [Investment Forecaster](https://forecaster.byjofrey.com/)
 
 ## 📈 GitHub Stats
