@@ -28,6 +28,8 @@ Hi! I'm Jofreylin, a software developer specialized in web development, but in m
 ## 🌐 Personal Links
 
 - [Investment Forecaster](https://forecaster.byjofrey.com/)
+- [XLIFF Tools](https://web-xliff-tools.vercel.app/)
+- [Quiz Game](https://number-the-game.vercel.app/)
 
 ## 📈 GitHub Stats
 
